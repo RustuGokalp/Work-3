@@ -1,0 +1,61 @@
+* {
+    background-color: #E0C9A9;
+}
+/* Introduction Start */
+.main-heading {
+    color: #5E2610;
+    font-style: italic;
+}
+.text1 {
+    font-style: italic;
+    font-weight: 700;
+}
+/* Introduction End */
+
+.content {
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* Information Start */
+.content .listgroup {
+    list-style-type: none;
+    display: flex;
+}
+.content .listitem {
+    text-decoration: underline;
+    justify-content: center;
+    padding: 0.5rem;
+    margin-left: 5px;
+}
+.brown {
+    color: #963102;
+}
+.bold {
+    font-weight: 700;
+}
+/* Information End */
+
+/* Necessaries Start */
+.bg-brown {
+    background-color: #963102;
+    color: white;
+    font-weight: 700;
+    display: inline;
+    border-radius: 10px;
+    padding: 4px;
+    text-align: left;
+}
+.recipe {
+    line-height: 1.25rem;
+}
+/* Necessaries End */
+
+.text2 {
+    color: #2C1504;
+    font-size: 2rem;
+    text-align: right;
+    margin-right: 10rem;
+    font-family:'Open Sans', sans-serif;
+}
